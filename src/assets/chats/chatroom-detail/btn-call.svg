@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+    <g data-name="사각형 1250" style="stroke:#ededed;fill:none">
+        <rect width="56" height="56" rx="10" style="stroke:none"/>
+        <rect x=".5" y=".5" width="55" height="55" rx="9.5" style="fill:5"/>
+    </g>
+    <path data-name="패스 47" d="M2.962 1.625a1.7 1.7 0 0 1 2.545.159l1.747 2.248a1.7 1.7 0 0 1 .308 1.455l-.533 2.134a.661.661 0 0 0 .174.628l2.4 2.393a.661.661 0 0 0 .628.174l2.133-.533a1.7 1.7 0 0 1 1.456.308l2.247 1.747a1.7 1.7 0 0 1 .159 2.545l-1.009 1.009a2.709 2.709 0 0 1-2.8.684 18.163 18.163 0 0 1-6.831-4.308 18.162 18.162 0 0 1-4.317-6.831 2.71 2.71 0 0 1 .684-2.805l1.009-1.008z" transform="translate(18.876 10.873)" style="fill-rule:evenodd;fill:#f68722"/>
+    <text transform="translate(28 46)" style="font-size:12px;fill:#f68722"><tspan x="-10.081" y="0">Call</tspan></text>
+</svg>

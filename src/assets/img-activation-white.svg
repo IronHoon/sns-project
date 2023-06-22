@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="92" viewBox="0 0 92 92">
+    <circle data-name="타원 22" cx="46" cy="46" r="46" style="fill:none"/>
+    <g data-name="그룹 215">
+        <path data-name="패스 25920" d="M31.325 39.039v9.256a2.572 2.572 0 0 1-2.571 2.571H4.071A2.572 2.572 0 0 1 1.5 48.295V4.072A2.572 2.572 0 0 1 4.071 1.5h24.683a2.572 2.572 0 0 1 2.571 2.571v5.143" style="stroke-width:3px;stroke-miterlimit:10;stroke:#ffffff;fill:none" transform="translate(29 21)"/>
+        <path data-name="선 175" transform="translate(40.784 66.724)" style="stroke-width:3px;stroke-miterlimit:10;stroke:#ffffff;fill:none" d="M0 0h9.256"/>
+        <path data-name="패스 25921" d="m24.64 1.5-.957 3.289a2.57 2.57 0 0 1-2.469 1.853h-9.6a2.57 2.57 0 0 1-2.472-1.853L8.185 1.5" style="stroke-width:3px;stroke-miterlimit:10;stroke:#ffffff;fill:none" transform="translate(29 21)"/>
+        <path data-name="패스 25922" d="M22.979 31.661h14.372a2.788 2.788 0 0 0 2.788-2.788V17.721a2.788 2.788 0 0 0-2.788-2.788H19.633a2.788 2.788 0 0 0-2.788 2.788v19.516z" style="stroke-width:3px;stroke-miterlimit:10;stroke:#ffffff;fill:none" transform="translate(29 21)"/>
+        <path data-name="패스 25924" d="M28.393 23.3a.558.558 0 1 0 .558-.558.558.558 0 0 0-.558.558z" style="stroke-width:2px;stroke-miterlimit:10;stroke:#ffffff;fill:none" transform="translate(29 21)"/>
+        <path data-name="패스 25925" d="M23.375 23.3a.558.558 0 1 0 .558-.558.558.558 0 0 0-.558.558" style="fill:#999;stroke:#ffffff" transform="translate(29 21)"/>
+        <path data-name="패스 25926" d="M23.375 23.3a.558.558 0 1 0 .558-.558.558.558 0 0 0-.558.558z" style="fill:#ffffff;stroke-width:2px;stroke-miterlimit:10;stroke:#ffffff" transform="translate(29 21)"/>
+        <path data-name="패스 25927" d="M33.412 23.3a.558.558 0 1 0 .558-.558.558.558 0 0 0-.558.558" style="fill:#ffffff;stroke:#ffffff" transform="translate(29 21)"/>
+        <path data-name="패스 25928" d="M33.412 23.3a.558.558 0 1 0 .558-.558.558.558 0 0 0-.558.558z" style="fill:#ffffff;stroke-width:2px;stroke-miterlimit:10;stroke:#ffffff" transform="translate(29 21)"/>
+        <path data-name="패스 25923" d="M28.393 23.3a.558.558 0 1 0 .558-.558.558.558 0 0 0-.558.558" style="fill:#ffffff;stroke:#ffffff" transform="translate(29 21)"/>
+    </g>
+</svg>

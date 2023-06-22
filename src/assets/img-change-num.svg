@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="92" viewBox="0 0 92 92">
+    <g transform="translate(-142 -160)">
+        <circle data-name="타원 22" cx="46" cy="46" r="46" transform="translate(142 160)" style="fill:none"/>
+        <g data-name="그룹 215">
+            <path data-name="패스 25920" d="M31.325 39.039v9.256a2.572 2.572 0 0 1-2.571 2.571H4.071A2.572 2.572 0 0 1 1.5 48.295V4.072A2.572 2.572 0 0 1 4.071 1.5h24.683a2.572 2.572 0 0 1 2.571 2.571v5.143" style="stroke-miterlimit:10;stroke-width:3px;stroke:#262525;fill:none" transform="translate(171 181)"/>
+            <path data-name="선 175" transform="translate(182.784 226.724)" style="stroke-miterlimit:10;stroke-width:3px;stroke:#262525;fill:none" d="M0 0h9.256"/>
+            <path data-name="패스 25921" d="m24.64 1.5-.957 3.289a2.57 2.57 0 0 1-2.469 1.853h-9.6a2.57 2.57 0 0 1-2.472-1.853L8.185 1.5" style="stroke-miterlimit:10;stroke-width:3px;stroke:#262525;fill:none" transform="translate(171 181)"/>
+            <path data-name="패스 26166" d="M3.993 4.993A9.218 9.218 0 0 1 19.74 8h1.834A10.97 10.97 0 0 0 2.753 3.752L0 1v7h7zM15 14l3.007 3.007A9.218 9.218 0 0 1 2.26 14H.426a10.97 10.97 0 0 0 18.821 4.248L22 21v-7z" transform="translate(188 194.5)" style="fill:#262525;stroke-width:.5px;stroke:#262525"/>
+        </g>
+    </g>
+</svg>

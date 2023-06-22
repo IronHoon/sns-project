@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="32" viewBox="0 0 36 32">
+    <rect data-name="사각형 1238" width="36" height="32" rx="6" style="fill:#5a5a5a"/>
+    <g data-name="그룹 365">
+        <path data-name="패스 26006" d="M8.567 7.828 10.791 5.6 8.567 3.381" transform="translate(15.452 10.396)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px"/>
+        <path data-name="선 217" transform="translate(18.5 16)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px" d="M0 0h7.001"/>
+        <path data-name="사각형 1245" transform="translate(12.644 10.071)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px" d="M0 0h8.152v11.858H0z"/>
+    </g>
+</svg>

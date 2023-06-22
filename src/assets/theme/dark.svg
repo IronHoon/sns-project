@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="56" viewBox="0 0 36 56">
+    <g data-name="그룹 10324" transform="translate(-20 -81)">
+        <rect data-name="사각형 1471" width="36" height="56" rx="6" transform="translate(20 81)" style="fill:#585858"/>
+        <text transform="translate(24 91)" style="fill:#fff;font-size:6px;font-weight:500"><tspan x="0" y="0">Chats</tspan></text>
+        <circle data-name="타원 415" cx="3.5" cy="3.5" r="3.5" transform="translate(24 96)" style="opacity:.7;fill:#65b4b8"/>
+        <circle data-name="타원 416" cx="3.5" cy="3.5" r="3.5" transform="translate(24 105)" style="fill:#f5d7b9;opacity:.7"/>
+        <circle data-name="타원 417" cx="3.5" cy="3.5" r="3.5" transform="translate(24 114)" style="fill:#d3cdd9;opacity:.7"/>
+        <path data-name="사각형 1473" transform="translate(33 97)" style="fill:#ededed;opacity:.3" d="M0 0h9v2H0z"/>
+        <path data-name="사각형 1475" transform="translate(33 106)" style="fill:#ededed;opacity:.3" d="M0 0h9v2H0z"/>
+        <path data-name="사각형 1478" transform="translate(33 115)" style="fill:#ededed;opacity:.3" d="M0 0h9v2H0z"/>
+        <path data-name="사각형 1474" transform="translate(33 100)" style="fill:#ededed;opacity:.3" d="M0 0h16v2H0z"/>
+        <path data-name="사각형 1476" transform="translate(33 109)" style="fill:#ededed;opacity:.3" d="M0 0h16v2H0z"/>
+        <path data-name="사각형 1479" transform="translate(33 118)" style="fill:#ededed;opacity:.3" d="M0 0h16v2H0z"/>
+    </g>
+</svg>

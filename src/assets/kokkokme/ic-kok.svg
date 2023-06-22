@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <path data-name="사각형 1099" style="fill:none" d="M0 0h24v24H0z"/>
+    <g data-name="그룹 98">
+        <path data-name="hand-o-up - Outline" d="M8.658 21.317h-.007l-.017-.017c-.035-.035-.043-.044-.043-.119v-1.954a2.483 2.483 0 0 0-.17-.889 2.963 2.963 0 0 0-.434-.757q-.138-.177-.261-.331a5.451 5.451 0 0 0-.449-.491l-.317-.308a9.194 9.194 0 0 0-.351-.316c-.121-.106-.2-.176-.272-.23a16.451 16.451 0 0 0-1.944-1.523l-.018-.012a11.915 11.915 0 0 0-1.01-.55 21.922 21.922 0 0 1-.924-.483 6.19 6.19 0 0 1-.682-.448.74.74 0 0 1-.215-.234.385.385 0 0 1-.042-.2 2.871 2.871 0 0 1 .56-1.873 1.45 1.45 0 0 1 1.281-.516 3.273 3.273 0 0 1 1.164.2l2.312.863V3.44a1.842 1.842 0 0 1 .577-1.38 1.653 1.653 0 0 1 1.25-.56 1.69 1.69 0 0 1 1.282.556A1.836 1.836 0 0 1 10.5 3.44v3.943l1.591.1a1.965 1.965 0 0 1 .883.286l.524.309.6-.088a2.428 2.428 0 0 1 .346-.024 2.129 2.129 0 0 1 1.392.474l.475.376h.642a2.134 2.134 0 0 1 1.73.647 2.868 2.868 0 0 1 .675 1.965v.118a12.375 12.375 0 0 1-.859 3.986v.007a11.554 11.554 0 0 0-.911 3.689 10.76 10.76 0 0 1-.066 2.089H8.651" transform="translate(-1 2.142)" style="stroke:#bcb3c5;stroke-linecap:round;fill:#bcb3c5;stroke-linejoin:round;stroke-width:.5px"/>
+        <g data-name="그룹 8">
+            <path data-name="선 11" transform="scale(-1) rotate(-53 -13.117 17.422)" style="stroke-width:1.5px;stroke:#bcb3c5;stroke-linecap:round;fill:none" d="M0 0h3.071"/>
+            <path data-name="선 12" transform="scale(-1) rotate(-23 -31.766 52.24)" style="stroke-width:1.5px;stroke:#bcb3c5;stroke-linecap:round;fill:none" d="M0 0h3.071"/>
+            <path data-name="선 13" transform="scale(-1) rotate(-83 -7.446 7.065)" style="stroke-width:1.5px;stroke:#bcb3c5;stroke-linecap:round;fill:none" d="M0 0h3.071"/>
+        </g>
+    </g>
+</svg>

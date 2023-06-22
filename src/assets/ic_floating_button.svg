@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="93" height="93" viewBox="0 0 93 93">
+    <defs>
+        <filter id="4dv97vm0ta" x="0" y="0" width="93" height="93" filterUnits="userSpaceOnUse">
+            <feOffset dy="5"/>
+            <feGaussianBlur stdDeviation="7.5" result="blur"/>
+            <feFlood flood-opacity=".102"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="그룹 11129">
+        <g style="filter:url(#4dv97vm0ta)">
+            <circle data-name="타원 440" cx="24" cy="24" r="24" transform="translate(22.5 17.5)" style="fill:#f68722"/>
+        </g>
+        <path data-name="사각형 1141" style="fill:none" d="M0 0h22v22H0z" transform="translate(35.5 30.5)"/>
+        <g data-name="그룹 38">
+            <path data-name="선 15" transform="translate(38.5 41.5)" style="stroke:#fff;stroke-linecap:round;stroke-width:1.8px;fill:none" d="M0 0h16.056"/>
+            <path data-name="선 17" transform="rotate(90 6.5 40)" style="stroke:#fff;stroke-linecap:round;stroke-width:1.8px;fill:none" d="M0 0h16.056"/>
+        </g>
+    </g>
+</svg>

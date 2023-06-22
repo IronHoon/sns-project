@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="32" viewBox="0 0 36 32">
+    <rect data-name="사각형 1242" width="36" height="32" rx="6" style="fill:#ffc518"/>
+    <g data-name="그룹 360">
+        <path data-name="패스 26000" d="m1 5.537 3.782 3.782L13.1 1" transform="translate(7.871 10.89)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.5px"/>
+        <path data-name="패스 26001" d="M7.228 10.133h0l8.318-8.318" transform="translate(11.583 10.115)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.5px"/>
+    </g>
+</svg>

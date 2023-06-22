@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+    <g data-name="사각형 1250" style="stroke:#ededed;fill:none">
+        <rect width="56" height="56" rx="10" style="stroke:none"/>
+        <rect x=".5" y=".5" width="55" height="55" rx="9.5" style="fill:none"/>
+    </g>
+    <text transform="translate(28 46)" style="font-size:12px;fill:#15979e"><tspan x="-15.258" y="0">Video</tspan></text>
+    <path data-name="패스 49" d="m26.211 18.276 4.1 2.883a.792.792 0 0 0 1.114-.724V10.89a.792.792 0 0 0-1.114-.724l-4.1 2.883a.792.792 0 0 0-.336.648v3.932a.792.792 0 0 0 .336.648z" transform="translate(7.207 5.675)" style="fill:#15979e"/>
+    <path data-name="패스 50" d="M13.5 21.676H4.73A2.536 2.536 0 0 1 2.25 19.1v-7.525A2.536 2.536 0 0 1 4.73 9h8.8a2.513 2.513 0 0 1 2.457 2.551V19.1a2.536 2.536 0 0 1-2.487 2.576z" transform="translate(15.75 6)" style="fill:#15979e"/>
+</svg>

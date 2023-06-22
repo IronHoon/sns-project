@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+    <g data-name="사각형 1250" style="stroke:#ededed;fill:none">
+        <rect width="56" height="56" rx="10" style="stroke:none"/>
+        <rect x=".5" y=".5" width="55" height="55" rx="9.5" style="fill:none"/>
+    </g>
+    <text transform="translate(28 46)" style="font-size:12px;fill:#999"><tspan x="-13.869" y="0">More</tspan></text>
+    <g data-name="그룹 383" transform="translate(-86 -337)">
+        <circle data-name="타원 42" cx="2" cy="2" r="2" transform="translate(103 357)" style="fill:#999"/>
+        <circle data-name="타원 43" cx="2" cy="2" r="2" transform="translate(112 357)" style="fill:#999"/>
+        <circle data-name="타원 44" cx="2" cy="2" r="2" transform="translate(121 357)" style="fill:#999"/>
+    </g>
+</svg>

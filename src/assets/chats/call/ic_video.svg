@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <path data-name="사각형 1089" style="fill:none" d="M0 0h20v20H0z"/>
+    <path data-name="패스 49" d="m26.153 16.863 3.388 2.385a.655.655 0 0 0 .922-.6v-7.9a.655.655 0 0 0-.922-.6l-3.388 2.385a.655.655 0 0 0-.278.536v3.252a.655.655 0 0 0 .278.536z" transform="translate(-11.719 -4.812)" style="fill:#262525"/>
+    <path data-name="패스 50" d="M11.559 19.486H4.3a2.1 2.1 0 0 1-2.051-2.13V11.13A2.1 2.1 0 0 1 4.3 9h7.277a2.079 2.079 0 0 1 2.032 2.111v6.245a2.1 2.1 0 0 1-2.05 2.13z" transform="translate(-.57 -4.354)" style="fill:#262525"/>
+</svg>

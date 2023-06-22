@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+    <g data-name="사각형 1250" style="stroke:#ededed;fill:none">
+        <rect width="56" height="56" rx="10" style="stroke:none"/>
+        <rect x=".5" y=".5" width="55" height="55" rx="9.5" style="fill:none"/>
+    </g>
+    <text transform="translate(28 46)" style="font-size:12px;fill:#956cbf"><tspan x="-20.906" y="0">Unmute</tspan></text>
+    <g data-name="그룹 29">
+        <path data-name="사각형 21" d="M5.586 0a5.586 5.586 0 0 1 5.586 5.586v4.841H0V5.586A5.586 5.586 0 0 1 5.586 0z" transform="translate(22.414 13.999)" style="stroke-width:1.5px;stroke:#956cbf;stroke-linejoin:round;fill:#956cbf"/>
+        <path data-name="사각형 22" d="M1.605 0A1.605 1.605 0 0 1 3.21 1.605v.2H0v-.2A1.605 1.605 0 0 1 1.605 0z" transform="rotate(180 14.786 14.262)" style="stroke-width:.5px;stroke:#956cbf;stroke-linejoin:round;fill:#956cbf"/>
+    </g>
+</svg>
